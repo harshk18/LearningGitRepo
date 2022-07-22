@@ -5,6 +5,6 @@ int main()
 {
     cout<<"HELLO WORLD!!\n";
     cout<<"GOOD MORNING\n";
-    cout<<"NEW CHANGE IN DEB BRANCH";
+    cout<<"NEW CHANGE IN DEV BRANCH";
     return 0;
 }
