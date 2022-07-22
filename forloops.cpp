@@ -7,5 +7,7 @@ int main()
     {
         cout<<"HELLO WORLD"<<" ";
     }
+        cout<<"For loops understood"<<endl;
+        cout<<"while loops?";
     return 0;
 }
